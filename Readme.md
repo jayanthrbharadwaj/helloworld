@@ -15,10 +15,10 @@ Running HelloWorld app as a module
 
 app project dependent on HelloWorld module 
 ------------------------------------------
-![alt text] (readmeassets/addingmodule-min.jpg)
+![alt text] (../readmeassets/addingmodule-min.jpg)
 
 
-![alt text] (readmeassets/structurerun-min.jpg)
+![alt text] (../readmeassets/structurerun-min.jpg)
 
 Remove Activity, layout file from app project as indicated in above image.
 
