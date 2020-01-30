@@ -15,10 +15,10 @@ Running HelloWorld app as a module
 
 app project dependent on HelloWorld module 
 ------------------------------------------
-http://192.168.30.109/gss-mob/android/helloworldasmodule/-/wikis/uploads/ed7a146efa7171d4e4ec8b1736cdc78b/addingmodule.jpg
+![alternativetext] (readmeassets/addingmodule-min.jpg?raw=true)
 
 
-http://192.168.30.109/gss-mob/android/helloworldasmodule/-/wikis/uploads/ed7a146efa7171d4e4ec8b1736cdc78b/addingmodule.jpg
+![alternativetext] (readmeassets/addingmodule-min.jpg?raw=true)
 
 Remove Activity, layout file from app project as indicated in above image.
 
