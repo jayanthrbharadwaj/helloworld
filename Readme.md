@@ -15,10 +15,10 @@ Running HelloWorld app as a module
 
 app project dependent on HelloWorld module 
 ------------------------------------------
-![alt text] (https://miro.medium.com/fit/c/96/96/1*aedATVB6sls-OKTTpn1DVQ.jpeg)
+![alt text] (readmeassets/addingmodule-min.jpg)
 
 
-![alt text] (https://cdn.themefoxx.com/wp-content/uploads/2018/01/ADB-Fastboot-Open-Command-Window.png)
+![alt text] (readmeassets/structurerun-min.jpg)
 
 Remove Activity, layout file from app project as indicated in above image.
 
