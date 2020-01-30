@@ -17,8 +17,8 @@ app project dependent on HelloWorld module
 ------------------------------------------
 <img src="readmeassets\addingmodule-min.jpg?raw=true"/>
 
-
-<img src="readmeassets\addingmodule-min.jpg?raw=true"/>
+===================================================
+<img src="readmeassets\structurerun-min.jpg?raw=true"/>
 
 Remove Activity, layout file from app project as indicated in above image.
 
